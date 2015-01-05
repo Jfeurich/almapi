@@ -1,0 +1,3 @@
+#summary Ideas 4 a project management tool
+
+* collect recent A-Bugs from ALM
